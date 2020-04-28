@@ -4,7 +4,7 @@ Following are the python codes format for performance metrics of machine learnin
 
 
 
-# Performance metrics for Classification problems
+## Performance metrics for Classification problems
 
 > Let us define sample actual and predicted values to understand the working of performance metrics for classification problem.
 ```python 
@@ -82,7 +82,7 @@ Output:
 LOGLOSS Value is 13.815750437193334
 ```
 
-# Performace metrics for Regression problems
+## Performace metrics for Regression problems
 
 > Let us define sample actual and predicted values to understand the working of performance metrics for regression problem. 
 ```python
